@@ -6,3 +6,5 @@ Online learning sources for Linux
 * [ ] [What is It and is It For Me?](https://www.linux.org/threads/new-to-linux-part-1-what-is-it-and-is-it-for-me.6299/)
 * [ ] [Linux Beginners Tutorials](https://www.linux.org/forums/linux-beginner-tutorials.123/)
 * [ ] [Linux Intermediate Tutorials](https://www.linux.org/forums/linux-intermediate-tutorials.124/)
+
+[100 best apps for ubuntu](https://linuxhint.com/100_best_ubuntu_apps/)
